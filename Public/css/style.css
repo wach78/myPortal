@@ -1,0 +1,35 @@
+
+
+#btnToAddCust
+{
+	background-color:transparent;
+}
+
+.transparent
+{
+	background-color:transparent;
+}
+
+.red
+{
+	color:red;
+}
+
+.green
+{
+	color:green;
+}
+
+.tacenter {
+    text-align: center;
+}
+
+.w-15
+{
+	width: 15% !important;
+}
+
+.w-85
+{
+	width: 85% !important;
+}
